@@ -114,6 +114,7 @@ if(C != Z) err_count++;
 
 ### DRC result
 ![DRC_result](https://github.com/user-attachments/assets/d0736a72-e69f-4584-87a7-02b19fdd5e5d)
+
 Note: Since I/O pads and Bump Cells were not added, there is no AP(12) metal layer present, which results in the DRC density error
 
 ### LVS result
