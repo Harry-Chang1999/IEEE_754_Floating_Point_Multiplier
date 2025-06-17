@@ -1,6 +1,6 @@
 # IEEE_754_Floating_Point_Multiplier
 ## Overview
-This project implements a pipeline floating-point multiplier designed in Verilog HDL that performs IEEE 754 double-precision multiplication operations. The design has been synthesized and through APR (Automatic Placement and Routing), with the complete circuit operating at 1 GHz and consuming less than 2mW power in both gate-level simulation and post-layout simulation.
+This project implements a pipeline floating-point multiplier designed in Verilog HDL that performs IEEE 754 double-precision multiplication operations. The design has been synthesized and through the process of APR (Automatic Placement and Routing), with the complete circuit operating at 1 GHz and consuming less than 2mW power in both gate-level simulation and post-layout simulation.
 
 ## 🎯 Project Objectives
 - **Implement IEEE 754 standard** double-precision floating-point multiplication
